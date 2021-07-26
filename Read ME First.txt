@@ -1,0 +1,7 @@
+Hi Hope you find this project helpfull
+This project is "Watermarking of chest CT scan medical images for content authentication" using image processing 
+formulas and techniques.
+The project will run on matlab with all requirements tools.
+
+Regards
+Muhammad Usman Sulehri
