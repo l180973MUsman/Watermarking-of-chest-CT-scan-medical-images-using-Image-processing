@@ -1,0 +1,3 @@
+Patient Name: Muhammad Usman
+Age: 21
+Other Info: Hello! I am the temp other info.
